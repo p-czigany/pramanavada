@@ -53,3 +53,32 @@
 
   Jegyzetek: 
 
+
+
+## Vázlat
+
+- bevezetés
+  - a szalakkhana/szvalaksana viszonya a megvilágosodáshoz
+
+- az önjegy a korai buddhizmusban (vaisésika)
+  - szalakkhana a théraváda Abhidhammában
+    - Buddhagósza (Vism)
+  - szvalaksana a szarvásztiváda Abhidharmában
+
+- az önjegy a mahájánában
+  - Nágárdzsuna (és más madhjamikák) a szvalaksanáról
+    - miben különbözik a korábbiaktól?
+  - Vaszubhandu (és más jógácsárinok) a szvalaksanáról
+    - miben különbözik a korábbiaktól?
+
+- az önjegy a buddhizmus ismeretelméleti iskolájában
+  - min vitatkozik a nyája és a buddhizmus Nálandában?
+    - az önjegy (szvalaksana) és a nyája (-vaisésika?) filozófia
+      - mi a nyájában az univerzális (samanya) ellentettje? ez lehetne a szvalaksana megfelelője?
+      - mikori a nyája? a buddhista szalakkhana megelőzte történelmileg?
+  - Dignága szvalaksanája
+    - miben különbözik a korábbiaktól?
+  - Dharmakírti szvalaksanája
+    - miben különbözik a korábbiaktól?
+
+- befejezés
