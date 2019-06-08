@@ -53,32 +53,40 @@
 
   Jegyzetek: 
 
+## A vázlat
 
+Téma:
+  - cím formában: Az önjegy fogalmának változása az vaisésikától az ismeretelméleti iskoláig
+  - kérdés formában: Hogyan változott az önjegy fogalma a vaisésikától az ismeretelméleti iskoláig?
 
-## Vázlat
+Leütések: 5400 (cél: 6750) + jegyzékek
+Szavak: 1800 (cél: 2250) + jegyzékek
+Oldalak: 3 (cél: 4) + jegyzékek
 
-- bevezetés
-  - a szalakkhana/szvalaksana viszonya a megvilágosodáshoz
+### Vázlat
 
-- az önjegy a korai buddhizmusban (vaisésika)
-  - szalakkhana a théraváda Abhidhammában
-    - Buddhagósza (Vism)
-  - szvalaksana a szarvásztiváda Abhidharmában
+- mi az önjegy a korai buddhizmusban (vaisésika)?
+  - mi a szalakkhana a théraváda Abhidhammában?
+    - mikor?
+    - kik?
+    - mit jelent a szalakkhana Buddhagósza (Vism) számára?
+  - mi a szvalaksana a szarvásztiváda Abhidharmában?
+    - mikor?
+    - kik?
 
-- az önjegy a mahájánában
+- mi az önjegy a mahájánában?
   - Nágárdzsuna (és más madhjamikák) a szvalaksanáról
     - miben különbözik a korábbiaktól?
   - Vaszubhandu (és más jógácsárinok) a szvalaksanáról
     - miben különbözik a korábbiaktól?
 
+- kitekintés: mi felel meg az önjegynek a nyájában (és a többi ortodox hindu (ásztika) filozófiában)?
+  - mi a nyájában az univerzális (samanya) ellentettje? ez lehetne a szvalaksana megfelelője?
+  - mikori a nyája? a buddhista szalakkhana megelőzte történelmileg?
+
 - az önjegy a buddhizmus ismeretelméleti iskolájában
-  - min vitatkozik a nyája és a buddhizmus Nálandában?
-    - az önjegy (szvalaksana) és a nyája (-vaisésika?) filozófia
-      - mi a nyájában az univerzális (samanya) ellentettje? ez lehetne a szvalaksana megfelelője?
-      - mikori a nyája? a buddhista szalakkhana megelőzte történelmileg?
   - Dignága szvalaksanája
+    - min vitatkozik a nyája és a buddhizmus Nálandában?
     - miben különbözik a korábbiaktól?
   - Dharmakírti szvalaksanája
     - miben különbözik a korábbiaktól?
-
-- befejezés
