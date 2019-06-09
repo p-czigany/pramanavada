@@ -12,7 +12,7 @@
 ### Abhidhamma
 - [X] 08 - Porosz Tibor 2000. *A buddhista filozófia kialakulása és fejlődése a théraváda irányzatban*. Budapest: A Tan Kapuja Buddhista Főiskola.
 - [x] 11 - Porosz Tibor 2018. *A buddhizmus lexikona*. Budapest: A Tan Kapuja Buddhista Egyház.
-- [ ] 26 - Ronkin, Noa 2010. Abhidharma. *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition). URL: https://plato.stanford.edu/entries/abhidharma/
+- [ ] 26 - Ronkin, Noa 2018. Abhidharma. *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition). URL: https://plato.stanford.edu/entries/abhidharma/
 - [ ] 09 - Ronkin, Noa 2005. *Early Buddhist metaphysics*. London: RoutledgeCurzon.
 - [ ] 03 - Westerhoff, Jan 2011. Abhidharma Philosophy. *The Oxford Handbook of World Philosophy*. Oxford Handbooks Online. URL: https://www.oxfordhandbooks.com/abstract/10.1093/oxfordhb/9780195328998.001.0001/oxfordhb-9780195328998-e-19
 - [x] 27 - SuttaCentral 2019. Salakkhaṇa. *PTS Pali English Dictionary*. SuttaCentral. URL: https://suttacentral.net/define/salakkhaṇa
@@ -20,7 +20,7 @@
 ### Abhidharma
 - [x] 11 - Porosz Tibor 2018. *A buddhizmus lexikona*. Budapest: A Tan Kapuja Buddhista Egyház.
 - [ ] 06 - Frauwallner, Erich 1995. *Studies in Abhidharma Literature and the Origins of Buddhist Philosophical Systems*. (Kidd, Sophie Francis ford.) Albany: State University of New York Press.
-- [ ] 26 - Ronkin, Noa 2010. Abhidharma. *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition). URL: https://plato.stanford.edu/entries/abhidharma/
+- [ ] 26 - Ronkin, Noa 2018. Abhidharma. *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition). URL: https://plato.stanford.edu/entries/abhidharma/
 - [ ] 09 - Ronkin, Noa 2005. *Early Buddhist metaphysics*. London: RoutledgeCurzon.
 - [ ] 03 - Westerhoff, Jan 2011. Abhidharma Philosophy. *The Oxford Handbook of World Philosophy*. Oxford Handbooks Online. URL: https://www.oxfordhandbooks.com/abstract/10.1093/oxfordhb/9780195328998.001.0001/oxfordhb-9780195328998-e-19
 
@@ -35,10 +35,10 @@
 - [ ] 24 - URL: http://kheper.net/topics/Buddhism/Yogacara.html
 
 ### nyája, vaisésika, számkhja, mímámszá
-- [ ] 21 - Chadha, Monima 2010. Perceptual Experience and Concepts in Classical Indian Philosophy. *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition). URL: https://plato.stanford.edu/entries/perception-india/
-- [ ] 22 - Chatterjee, Amita 2012. Naturalism in Classical Indian Philosophy. *Stanford Encyclopedia of Philosophy*. URL: https://plato.stanford.edu/entries/naturalism-india/
+- [ ] 21 - Chadha, Monima 2015. Perceptual Experience and Concepts in Classical Indian Philosophy. *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition). URL: https://plato.stanford.edu/entries/perception-india/
+- [ ] 22 - Chatterjee, Amita 2017. Naturalism in Classical Indian Philosophy. *Stanford Encyclopedia of Philosophy*. URL: https://plato.stanford.edu/entries/naturalism-india/
 - [ ] 19 - Chatterjee, Amita 2011. Nyāya-vaiśeṣika Philosophy. *The Oxford Handbook of World Philosophy*. Oxford Handbooks Online. URL: https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195328998.001.0001/oxfordhb-9780195328998-e-12
-- [ ] 23 - Phillips, Stephen 2011. Epistemology in Classical Indian Philosophy. *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition). URL: https://plato.stanford.edu/entries/epistemology-india/
+- [ ] 23 - Phillips, Stephen 2019. Epistemology in Classical Indian Philosophy. *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition). URL: https://plato.stanford.edu/entries/epistemology-india/
 - [ ] 18 - Ruzsa Ferenc 2019. Sankhya. *Internet Encyclopedia of Philosophy*. URL: https://www.iep.utm.edu/sankhya/
 - [ ] 13 - Sharma, Davender -- *The Controversy of Universal in Nyaya and Buddhism*
 
@@ -51,7 +51,7 @@
 ### Dharmakírti
 - [ ] 01 - Agócs Tamás 2002. *Buddhista ismeretelmélet*. Budapest: A Tan Kapuja Buddhista Főiskola.
 - [ ] 05 - Tillemans, Tom J.F. 2011a. Buddhist Epistemology (pramāṇavāda). *The Oxford Handbook of World Philosophy*. Oxford Handbooks Online. URL: https://www.oxfordhandbooks.com/abstract/10.1093/oxfordhb/9780195328998.001.0001/oxfordhb-9780195328998-e-22
-- [ ] 04 - Tillemans, Tom J.F. 2011b. Dharmakīrti. *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition). URL: https://plato.stanford.edu/entries/dharmakiirti/
+- [ ] 04 - Tillemans, Tom J.F. 2016. Dharmakīrti. *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition). URL: https://plato.stanford.edu/entries/dharmakiirti/
 
 
 
