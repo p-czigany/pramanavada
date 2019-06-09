@@ -1,7 +1,7 @@
 ## Témák - kérdés formában
 
 1. Mi a különbség a (théraváda) Abhidhamma, a (szarvásztiváda) Abhidharma, Dignága és Dharmakírti szalakkhana-szvalaksana fogalmai között?
-2. Mi a nem-buddhista előzménye a szvalaksana fogalomnak a szánkhja, nyája, vaisésika és mímámszá iskolákban?
+2. Mi a nem-buddhista előzménye a szvalaksana fogalomnak a számkhja, nyája, vaisésika és mímámszá iskolákban?
 3. A két igazság tana a (théraváda) Abhidhammában, a (szarvásztiváda) Abhidharmában, Vaszubandhunál, Dignágánál, Dharmakírtinél és Nágárdzsunánál. Mik a különbségek és a közös pontok?
 4. Mi a fogalomalkotás apóha elmélete? Mi a jelentősége a buddhista filozófiában?
 5. Hogy kapcsolódik a megvilágosodás a szvalaksanához? Mi a nibbána és a niródhák szalakkhanája, szvalaksanája?
