@@ -23,6 +23,11 @@ Buddhaghósza szerint a valóságelem, az öntermészet és az önjegy azonosak.
 Dignágától veszi át a théraváda azt, hogy két pramána van és amíg az egyedi jegyet az érzékelés ismeri meg, addig az általános jegyet a következtetés. (Porosz 2018: 'sabhāva': 202)
 
 
+Buddhadatta sokszor megkülönbözteti az önjegyet az általános jegytől az Abhidhammávatárában (i. sz. 5. sz.). (Porosz 2000: 163)
+
+Anuruddha is használja a kifejezést az Abhidhammatthaszangahában (i. sz. 11-12. sz.). (Porosz 2000: 166)
+
+
 ### Különbség a két abhidharma hagyomány között:
 
 A dhamma meghatározásába Buddhaghószánál az is beletartozik, hogy van öntermészete. A valóságelemek az öntermészetek ("Dhammá ti szabháva." (Vism VIII.)). (Porosz 2018: 'sabhāva': 202)
