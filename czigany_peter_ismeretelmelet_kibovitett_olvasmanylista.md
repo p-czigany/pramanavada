@@ -10,15 +10,15 @@
 - [ ] 12 - Skilton, Andrew 2013. *The Concise History of Buddhism*. [ebook] Cambridge: Windhorse Publications.
 
 ### Abhidhamma
-- [x] 08 - Porosz Tibor 2000. *A buddhista filozófia kialakulása és fejlődése a théraváda irányzatban*. Budapest: A Tan Kapuja Buddhista Főiskola.
-- [ ] 11 - Porosz Tibor 2018. *A buddhizmus lexikona*. Budapest: A Tan Kapuja Buddhista Egyház.
+- [ ] 08 - Porosz Tibor 2000. *A buddhista filozófia kialakulása és fejlődése a théraváda irányzatban*. Budapest: A Tan Kapuja Buddhista Főiskola.
+- [x] 11 - Porosz Tibor 2018. *A buddhizmus lexikona*. Budapest: A Tan Kapuja Buddhista Egyház.
 - [ ] 26 - Ronkin, Noa 2010. Abhidharma. *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition). URL: https://plato.stanford.edu/entries/abhidharma/
 - [ ] 09 - Ronkin, Noa 2005. *Early Buddhist metaphysics*. London: RoutledgeCurzon.
 - [ ] 03 - Westerhoff, Jan 2011. Abhidharma Philosophy. *The Oxford Handbook of World Philosophy*. Oxford Handbooks Online. URL: https://www.oxfordhandbooks.com/abstract/10.1093/oxfordhb/9780195328998.001.0001/oxfordhb-9780195328998-e-19
 - [ ] 27 - SuttaCentral 2019. Salakkhaṇa. *PTS Pali English Dictionary*. SuttaCentral. URL: https://suttacentral.net/define/salakkhaṇa
 
 ### Abhidharma
-- [x] 08 - Porosz Tibor 2000. A buddhista filozófia kialakulása és fejlődése a théraváda irányzatban. Budapest: A Tan Kapuja Buddhista Főiskola.
+- [x] 11 - Porosz Tibor 2018. *A buddhizmus lexikona*. Budapest: A Tan Kapuja Buddhista Egyház.
 - [ ] 06 - Frauwallner, Erich 1995. *Studies in Abhidharma Literature and the Origins of Buddhist Philosophical Systems*. (Kidd, Sophie Francis ford.) Albany: State University of New York Press.
 - [ ] 26 - Ronkin, Noa 2010. Abhidharma. *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition). URL: https://plato.stanford.edu/entries/abhidharma/
 - [ ] 09 - Ronkin, Noa 2005. *Early Buddhist metaphysics*. London: RoutledgeCurzon.
@@ -56,6 +56,6 @@
 
 
 
-## Irodalomjegyzék (ezeket is olvastam/fogyasztottam)
+## Irodalomjegyzék
 
-25 - teachphilosophy 2017. *Epistemology: A Priori vs. A Posterior(sic!); Analytic vs. Synthetic; Necessary vs. Contingent*. YouTube. URL: https://www.youtube.com/watch?v=NECNCL5aQTI
+- 25 - teachphilosophy 2017. *Epistemology: A Priori vs. A Posterior(sic!); Analytic vs. Synthetic; Necessary vs. Contingent*. YouTube. URL: https://www.youtube.com/watch?v=NECNCL5aQTI
