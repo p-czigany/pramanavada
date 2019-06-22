@@ -2,7 +2,7 @@
 
 A PTS páli angol szótár szerint a szalakkhana jelentése önjegy, az ami konzisztens az öntermészettel. Ellentettje a vilakkhana. Mil.205 Ne.20 (SuttaCentral 2019: 'salakkhaṇa' https://suttacentral.net/define/salakkhaṇa)
 
-A valóságelemek (dhammák) egyedi jegyének (szalakkhana) megismerése az észlelés (paccsakkha) által történik. Ez érvényes megismerési forrás a következtetés (anumána) mellett (Mil 329-348; DNAT 192). (Porosz 2018: 'paccakkha': 164)
+
 
 A théraváda hagyományban Buddhaghósza (5. sz.) használja először a szabháva (öntermészet) kifejezést a valóságelemek definiálásakor (Asl 39-40). (Porosz 2018: 'Buddhaghosa': 61)
 

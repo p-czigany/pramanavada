@@ -11,6 +11,10 @@ Angolban:
 * unique particular
 * individual (proper)
 * event (Sharma XXXX: )
+* particular inherent characteristic (Ronkin 2018: 6. rész, 7-8. bekezdés)
+* own-characteristic (Ronkin 2005: 110, 115)
+* own defining characteristic (Ronkin 2005: 110)
+
 
 
 vaisésikában az egyes a visésa

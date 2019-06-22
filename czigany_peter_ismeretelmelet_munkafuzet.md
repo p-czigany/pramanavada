@@ -21,7 +21,7 @@
 
   Jegyzetek: 
 
-3. olvasmány: Ronkin 2010 -- az abhidhamma és az abhidharma filozófiákról
+3. olvasmány: Ronkin 2018 -- az abhidhamma és az abhidharma filozófiákról
 
   Jegyzetek: 
 
